@@ -8,7 +8,7 @@ alias ka='kubectl apply'
 alias kr='kubectl rollout'
 
 # Get commands
-alias kgc='kubectl config get-context'
+alias kgc='kubectl config get-contexts'
 alias kgp='kubectl get pods'
 alias kgd='kubectl get deployment'
 alias kgs='kubectl get service'
